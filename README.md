@@ -2,7 +2,9 @@
 
 ## Overview
 
-In this analysis we used comma separated data in Tableau to visualize the viability of a bike-sharing business in NYC. By plotting various metrics against each other we can get a better idea of the demographics and usage statistics behind a bike-sharing business. Each visualization is listed and discussed in greater detail below.
+In this analysis we used comma separated data in Tableau to visualize the viability of a bike-sharing business in NYC. By plotting various metrics against each other we can get a better idea of the demographics and usage statistics behind a bike-sharing business. Each visualization is listed and discussed in greater detail below, while the full Tableau story is available here:
+
+[link to dashboard]https://public.tableau.com/app/profile/philip.kirwan/viz/Kirwan_Citibike_challenge/CitibikeStory?publish=yes
 
 ## Results
 
